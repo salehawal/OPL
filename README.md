@@ -88,7 +88,4 @@ You may **modify and redistribute** this project under the following conditions:
 
 - **3.2- Prepare Students for Real Jobs**  
   - Students will gain **practical experience by working on stable, open-source projects used in real businesses**. 
-
-🚀 **ملخص: تجعل رخصة المشروع المفتوح تطوير التكنولوجيا أكثر سلاسة، المنتجات الأولية أسرع، التعليم أكثر عملية، والأعمال التجارية أكثر كفاءة!**  
-**TL;DR: OPL makes tech development smoother, MVPs faster, education more practical, and businesses more efficient!**
 ---
