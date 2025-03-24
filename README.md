@@ -41,8 +41,12 @@ You may **modify and redistribute** this project under the following conditions:
 - This software is provided **"as is"** without any guarantees, warranties, or liabilities.
 
 ---
-### **فوائد رخصة المشروع المفتوح (OPL)**  
+<div dir="rtl">
+### **فوائد رخصة المشروع المفتوح (OPL)**
+</div> 
 ### **Benefits of the Open Project License (OPL)** 
+
+<div dir="rtl">
 
 #### **1- للمتدربين (المطورين، المبرمجين، المصممين)**  
 
@@ -51,6 +55,9 @@ You may **modify and redistribute** this project under the following conditions:
 
 - **1.2- العمل الجماعي والنمو الوظيفي**  
   - العمل على مشروع مفتوح كمجموعة يحقق تأثيرًا أكبر - **سيتم ملاحظة عملك مما يساعدك على التطور في مسارك الوظيفي**.  
+
+</div>
+
 #### **1- For Interns (Developers, Programmers, Designers)**  
 
 - **1.1- Lead or Contribute to Open-Source Projects**  
@@ -59,6 +66,8 @@ You may **modify and redistribute** this project under the following conditions:
 - **1.2- Teamwork & Career Growth**  
   - Working on an open project as a team makes a bigger impact—**your work will be noticed and help you grow in your career**.
 
+<div dir="rtl">
+
 #### **2- لرواد الأعمال وأصحاب الأعمال**  
 
 - **2.1- التركيز على الأعمال بدلاً من التعقيدات التقنية**  
@@ -66,6 +75,9 @@ You may **modify and redistribute** this project under the following conditions:
 
 - **2.2- التركيز على النجاح بدلاً من إثبات المفهوم**  
   - إعطاء الأولوية **للتوسع والنجاح** بدلاً من مجرد إثبات فكرة مقبولة بالفعل.  
+
+</div>
+
 #### **2- For Entrepreneurs & Business Owners**  
 
 - **2.1- Focus on Business, Not Tech Complexity**  
@@ -74,6 +86,8 @@ You may **modify and redistribute** this project under the following conditions:
 - **2.2- Focus on Winning, Not Proving a Concept**  
   - Prioritize **scaling and success** rather than just proving an already accepted idea. 
 
+<div dir="rtl">
+
 #### **3- للمعلمين**  
 
 - **3.1- التعلم التطبيقي باستخدام المنتجات الأولية (MVPs)**  
@@ -81,10 +95,14 @@ You may **modify and redistribute** this project under the following conditions:
 
 - **3.2- إعداد الطلاب للوظائف الحقيقية**  
   - سيكتسب الطلاب **خبرة عملية من خلال العمل على مشاريع مفتوحة المصدر مستقرة تُستخدم في الأعمال التجارية الحقيقية**.  
+
+</div>
+
 #### **3- For Teachers**  
 
 - **3.1- Hands-On Learning with MVPs**  
   - Focus on **teaching practical, real-world solutions** instead of abstract theories.  
+
 
 - **3.2- Prepare Students for Real Jobs**  
   - Students will gain **practical experience by working on stable, open-source projects used in real businesses**. 
