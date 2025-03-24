@@ -42,21 +42,24 @@ You may **modify and redistribute** this project under the following conditions:
 
 ---
 <div dir="rtl">
+  
 ### **فوائد رخصة المشروع المفتوح (OPL)**
-</div> 
-### **Benefits of the Open Project License (OPL)** 
-
-<div dir="rtl">
 
 #### **1- للمتدربين (المطورين، المبرمجين، المصممين)**  
 
-- **1.1- قيادة أو المساهمة في مشاريع مفتوحة المصدر**  
-  - اكتسب الخبرة من خلال **المشاركة في أو قيادة مشروع مفتوح المصدر جديد**.  
+<ul dir="rtl">
+<li> <b>1.1- قيادة أو المساهمة في مشاريع مفتوحة المصدر</b>  
+  <br>اكتسب الخبرة من خلال <b>المشاركة في أو قيادة مشروع مفتوح المصدر جديد</b>.  
+</li>  
 
-- **1.2- العمل الجماعي والنمو الوظيفي**  
-  - العمل على مشروع مفتوح كمجموعة يحقق تأثيرًا أكبر - **سيتم ملاحظة عملك مما يساعدك على التطور في مسارك الوظيفي**.  
+<li> <b>1.2- العمل الجماعي والنمو الوظيفي</b>  
+  <br>العمل على مشروع مفتوح كمجموعة يحقق تأثيرًا أكبر - <b>سيتم ملاحظة عملك مما يساعدك على التطور في مسارك الوظيفي</b>.  
+</li>  
+</ul>
 
 </div>
+
+### **Benefits of the Open Project License (OPL)**  
 
 #### **1- For Interns (Developers, Programmers, Designers)**  
 
@@ -64,17 +67,21 @@ You may **modify and redistribute** this project under the following conditions:
   - Gain experience by **participating in or leading a new open-source project**.  
 
 - **1.2- Teamwork & Career Growth**  
-  - Working on an open project as a team makes a bigger impact—**your work will be noticed and help you grow in your career**.
+  - Working on an open project as a team makes a bigger impact—**your work will be noticed and help you grow in your career**.  
 
 <div dir="rtl">
 
 #### **2- لرواد الأعمال وأصحاب الأعمال**  
 
-- **2.1- التركيز على الأعمال بدلاً من التعقيدات التقنية**  
-  - خصص وقتًا أكثر **للتمويل، التسويق، والإدارة** بدلاً من إصلاح المشكلات التقنية.  
+<ul dir="rtl">
+<li> <b>2.1- التركيز على الأعمال بدلاً من التعقيدات التقنية</b>  
+  <br>خصص وقتًا أكثر <b>للتمويل، التسويق، والإدارة</b> بدلاً من إصلاح المشكلات التقنية.  
+</li>  
 
-- **2.2- التركيز على النجاح بدلاً من إثبات المفهوم**  
-  - إعطاء الأولوية **للتوسع والنجاح** بدلاً من مجرد إثبات فكرة مقبولة بالفعل.  
+<li> <b>2.2- التركيز على النجاح بدلاً من إثبات المفهوم</b>  
+  <br>إعطاء الأولوية <b>للتوسع والنجاح</b> بدلاً من مجرد إثبات فكرة مقبولة بالفعل.  
+</li>  
+</ul>
 
 </div>
 
@@ -84,17 +91,21 @@ You may **modify and redistribute** this project under the following conditions:
   - Spend more time on **finance, marketing, and management** instead of debugging technical inconsistencies.  
 
 - **2.2- Focus on Winning, Not Proving a Concept**  
-  - Prioritize **scaling and success** rather than just proving an already accepted idea. 
+  - Prioritize **scaling and success** rather than just proving an already accepted idea.  
 
 <div dir="rtl">
 
 #### **3- للمعلمين**  
 
-- **3.1- التعلم التطبيقي باستخدام المنتجات الأولية (MVPs)**  
-  - التركيز على **تعليم الحلول العملية الواقعية** بدلاً من النظريات المجردة.  
+<ul dir="rtl">
+<li> <b>3.1- التعلم التطبيقي باستخدام المنتجات الأولية (MVPs)</b>  
+  <br>التركيز على <b>تعليم الحلول العملية الواقعية</b> بدلاً من النظريات المجردة.  
+</li>  
 
-- **3.2- إعداد الطلاب للوظائف الحقيقية**  
-  - سيكتسب الطلاب **خبرة عملية من خلال العمل على مشاريع مفتوحة المصدر مستقرة تُستخدم في الأعمال التجارية الحقيقية**.  
+<li> <b>3.2- إعداد الطلاب للوظائف الحقيقية</b>  
+  <br>سيكتسب الطلاب <b>خبرة عملية من خلال العمل على مشاريع مفتوحة المصدر مستقرة تُستخدم في الأعمال التجارية الحقيقية</b>.  
+</li>  
+</ul>
 
 </div>
 
@@ -103,7 +114,6 @@ You may **modify and redistribute** this project under the following conditions:
 - **3.1- Hands-On Learning with MVPs**  
   - Focus on **teaching practical, real-world solutions** instead of abstract theories.  
 
-
 - **3.2- Prepare Students for Real Jobs**  
-  - Students will gain **practical experience by working on stable, open-source projects used in real businesses**. 
----
+  - Students will gain **practical experience by working on stable, open-source projects used in real businesses**.  
+
