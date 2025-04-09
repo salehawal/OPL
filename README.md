@@ -1,4 +1,4 @@
-# OPL - Open Project License
+# OPL - Open Project License | ترخيص المشروع المفتوح
 
 ## 1. Identification - التعريف
 
